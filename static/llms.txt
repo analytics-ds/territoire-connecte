@@ -31,5 +31,5 @@ anglais.
 - Générateur : Hugo
 - Hébergement : GitHub Pages
 - Langues : français (racine) et anglais (/en/)
-- Sitemap : https://analytics-ds.github.io/territoire-connecte/sitemap.xml
-- RSS : https://analytics-ds.github.io/territoire-connecte/index.xml
+- Sitemap : https://territoire-connecte.com/sitemap.xml
+- RSS : https://territoire-connecte.com/index.xml
