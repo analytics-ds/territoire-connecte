@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+{{ $mainAuthorID := "camille-rousseau" }}
+{{ $mainAuthor := index hugo.Data.authors $mainAuthorID }}
+{{ $lang := .Site.Language.Lang }}
+
+<section class="hero">
+    <p class="display-title"><span>{{ i18n "wordmark_1" }}</span> <span class="outlined">{{ i18n "wordmark_2" }}</span></p>
+
+    <div class="hero-intro">
+        <div>
+            <h1>{{ i18n "hero_title" }}</h1>
+            <p class="hero-description">{{ i18n "hero_description" }}</p>
+        </div>
+        {{ with $mainAuthor }}
+        <div class="hero-author">
+            <span class="hero-author-avatar" aria-hidden="true">{{ substr .name 0 1 }}</span>
+            <div>
+                <span class="hero-author-name">{{ .name }}</span>
+                {{ with index .role $lang }}<span class="board-author-role" style="color:var(--text-light)">{{ . }}</span>{{ end }}
+                {{ with index .bio $lang }}<p class="hero-author-bio">{{ truncate 150 . }}</p>{{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<div class="article-board">
+    {{ range first 6 (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
+    {{ $page := . }}
+    {{ $author := "" }}{{ with .Params.author }}{{ $author = index hugo.Data.authors . }}{{ end }}
+    <article class="board-row">
+        <a class="board-media" href="{{ .RelPermalink }}" aria-hidden="true" tabindex="-1">
+            {{ with .Params.image }}
+            <img src="{{ . | strings.TrimPrefix "/" | relURL }}" alt="" loading="lazy" width="800" height="600">
+            {{ else }}
+            <span class="board-media-fallback">{{ with $page.Params.tileLabel }}{{ . }}{{ else }}{{ with $page.Params.tags }}{{ index . 0 | strings.FirstUpper }}{{ else }}{{ with $page.Params.categories }}{{ index . 0 }}{{ end }}{{ end }}{{ end }}</span>
+            {{ end }}
+        </a>
+        <div class="board-text">
+            <div class="board-meta">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format ":date_long" .Date }}</time>
+                <span>{{ .ReadingTime }} {{ i18n "reading_time" }}</span>
+            </div>
+            <h2 class="board-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ with $author }}
+            <div class="board-author">
+                <span class="board-author-avatar" aria-hidden="true">{{ substr .name 0 1 }}</span>
+                <div>
+                    <span class="board-author-name">{{ .name }}</span>
+                    {{ with index .jobTitle $lang }}<span class="board-author-role">{{ . }}</span>{{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </article>
+    {{ end }}
+</div>
+
+<div class="board-more">
+    <a href="{{ "blog/" | relLangURL }}">{{ i18n "view_all_articles" }} &rsaquo;</a>
+</div>
+
+<section class="categories-section">
+    <h2 class="section-title">{{ i18n "our_categories" }}</h2>
+    <div class="grid-categories">
+        {{ range .Site.Taxonomies.categories }}
+        <a href="{{ .Page.RelPermalink }}" class="category-card">
+            <h3>{{ .Page.Title }}</h3>
+            <span class="category-count">{{ .Count }} {{ i18n "articles" .Count }}</span>
+        </a>
+        {{ end }}
+    </div>
+</section>
+
+{{ end }}

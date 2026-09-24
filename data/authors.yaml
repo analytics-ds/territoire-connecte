@@ -1,0 +1,55 @@
+# Auteurs du blog — multilingue FR/EN
+# Ce fichier est copie dans `data/authors.yaml` a la racine du site Hugo a la creation du site.
+# Hugo le lit nativement via `.Site.Data.authors` dans les templates.
+#
+# Structure : map d'auteurs indexee par ID (slug)
+# L'ID est utilise dans le frontmatter des articles comme `author: thomas-durand`
+#
+# Le champ `topics` sert a la selection automatique de l'auteur dans /create-article-geo.
+# Le champ `expertise` alimente le schema.org Person -> knowsAbout.
+
+camille-rousseau:
+  id: camille-rousseau
+  name: Camille Rousseau
+  type: person
+  avatar: ""
+  linkedinUrl: ""
+  jobTitle:
+    fr: "Journaliste, données publiques et collectivités"
+    en: "Journalist, public data and local government"
+  role:
+    fr: "Journaliste, données publiques et collectivités"
+    en: "Journalist, public data and local government"
+  bio:
+    fr: "Camille Rousseau suit la transformation numérique des collectivités territoriales depuis une dizaine d'années. Parcours en direction des systèmes d'information d'une intercommunalité, puis en conseil auprès de collectivités sur leurs projets de plateforme de données. Écrit ici sur l'interopérabilité, la souveraineté des données publiques et le pilotage des services techniques par la mesure."
+    en: "Camille Rousseau has followed the digital transformation of local government for about ten years, first inside the IT department of an inter-municipal body, then advising authorities on their data platform projects. Writes here on interoperability, sovereignty over public data, and managing technical services through measurement."
+  expertise:
+    - Plateformes de données territoriales
+    - Interopérabilité et standards ouverts
+    - Souveraineté numérique
+    - Hypervision urbaine
+    - Commande publique
+    - Pilotage des services techniques
+  topics:
+    - collectivite
+    - collectivites territoriales
+    - territoire
+    - territoire intelligent
+    - smart city
+    - ville intelligente
+    - donnees publiques
+    - open data
+    - plateforme de donnees
+    - interoperabilite
+    - standards ouverts
+    - ngsi-ld
+    - fiware
+    - souverainete numerique
+    - hypervision
+    - secteur public
+    - commande publique
+    - marches publics
+    - service public
+    - elus
+    - mairie
+    - intercommunalite

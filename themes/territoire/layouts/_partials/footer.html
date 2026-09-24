@@ -1,0 +1,35 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h4>{{ .Site.Title }}</h4>
+                <p>{{ .Site.Params.description }}</p>
+            </div>
+            <div class="footer-col">
+                <h4>{{ i18n "categories" }}</h4>
+                <ul>
+                    {{ range .Site.Taxonomies.categories }}
+                    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>{{ i18n "navigation" }}</h4>
+                <nav aria-label="{{ i18n "navigation" }}">
+                    <ul>
+                        {{ range (union .Site.Menus.footer .Site.Menus.main) }}
+                        {{ $url := .URL | relLangURL }}{{ with .Page }}{{ $url = .RelPermalink }}{{ end }}
+                        <li><a href="{{ $url }}">{{ .Name }}</a></li>
+                        {{ end }}
+                        {{ with .Site.GetPage "/plan-du-site" }}
+                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                        {{ end }}
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ i18n "all_rights_reserved" }}</p>
+        </div>
+    </div>
+</footer>

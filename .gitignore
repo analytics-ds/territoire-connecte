@@ -1,0 +1,14 @@
+# Build Hugo
+public/
+resources/
+.hugo_build.lock
+.DS_Store
+
+# Fichiers de travail internes, non necessaires au build. Ne pas publier.
+CLAUDE.md
+MEMORY.md
+.claude/
+
+# Workflow CI : le token GitHub local n' a pas le scope "workflow".
+# A reactiver apres : gh auth refresh -h github.com -s workflow
+.github/

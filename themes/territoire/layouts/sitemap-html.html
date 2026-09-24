@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+<section class="sitemap-page">
+    <header class="list-header">
+        <div class="container">
+            <h1>{{ .Title }}</h1>
+            <p class="list-description">{{ i18n "all_pages_of" }} {{ .Site.Title }}</p>
+        </div>
+    </header>
+
+    <div class="sitemap-content">
+        <div class="container container-narrow">
+
+            <div class="sitemap-section">
+                <h2>{{ i18n "main_pages" }}</h2>
+                <ul class="sitemap-list">
+                    {{ range (union .Site.Menus.footer .Site.Menus.main) }}
+                    {{ $url := .URL | relLangURL }}{{ with .Page }}{{ $url = .RelPermalink }}{{ end }}
+                    <li><a href="{{ $url }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+
+            {{ range .Site.Taxonomies.categories }}
+            <div class="sitemap-section">
+                <h2><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></h2>
+                <ul class="sitemap-list">
+                    {{ range .Pages.ByDate.Reverse }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        <span class="sitemap-date">{{ .Lastmod.Format "02/01/2006" }}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+
+        </div>
+    </div>
+</section>
+
+{{ end }}
