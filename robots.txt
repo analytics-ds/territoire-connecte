@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://analytics-ds.github.io/territoire-connecte/sitemap.xml
+Sitemap: https://territoire-connecte.com/sitemap.xml
