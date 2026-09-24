@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>data platform on Territoire Connecté</title><link>https://analytics-ds.github.io/territoire-connecte/en/tags/data-platform/</link><description>Recent content in data platform on Territoire Connecté</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://analytics-ds.github.io/territoire-connecte/en/tags/data-platform/index.xml" rel="self" type="application/rss+xml"/><item><title>How to choose a territorial data platform</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/territorial-data-platform/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/en/blog/territorial-data-platform/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In short:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A territorial data platform is a normalisation layer between sources and uses, not a dashboard.&lt;/li&gt;
+&lt;li&gt;The data model and its conformity to an open standard determine the ability to change supplier later.&lt;/li&gt;
+&lt;li&gt;Reversibility must be written into the contract, with a full documented export, not merely mentioned.&lt;/li&gt;
+&lt;li&gt;The cost to compare is the total cost over time, including licences, scaling and ongoing operational maintenance.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="the-real-role-of-the-platform"&gt;The real role of the platform&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;territorial data platform&lt;/strong&gt; occupies an intermediate position. Upstream, the sources:
+sensors, business applications, files deposited by departments. Downstream, the uses:
+dashboards, applications for staff, publication to the public.&lt;/p&gt;</description></item></channel></rss>

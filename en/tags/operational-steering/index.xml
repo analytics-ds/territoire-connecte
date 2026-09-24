@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>operational steering on Territoire Connecté</title><link>https://analytics-ds.github.io/territoire-connecte/en/tags/operational-steering/</link><description>Recent content in operational steering on Territoire Connecté</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://analytics-ds.github.io/territoire-connecte/en/tags/operational-steering/index.xml" rel="self" type="application/rss+xml"/><item><title>What urban hypervision is actually for</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/urban-hypervision/</link><pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/en/blog/urban-hypervision/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In short:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hypervision aggregates the flows of several business systems into a single interface, without replacing them.&lt;/li&gt;
+&lt;li&gt;It differs from supervision, which manages a single domain in detail and at a higher level of granularity.&lt;/li&gt;
+&lt;li&gt;Its relevance depends on the number of systems to cross-reference, and therefore on scale: it is easier to justify across an inter-municipal body than in an isolated municipality.&lt;/li&gt;
+&lt;li&gt;Its value is measured by the number of decisions it speeds up, not by the number of indicators displayed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="what-hypervision-does"&gt;What hypervision does&lt;/h2&gt;
+&lt;p&gt;A local authority rarely runs a single piece of software. It runs a dozen, bought at
+different times, from different suppliers, each with its own interface. &lt;strong&gt;Urban
+hypervision&lt;/strong&gt; sits above that estate and offers a common reading of it.&lt;/p&gt;</description></item></channel></rss>

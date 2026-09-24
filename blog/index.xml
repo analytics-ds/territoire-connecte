@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Articles on Territoire Connecté</title><link>https://analytics-ds.github.io/territoire-connecte/blog/</link><description>Recent content in Articles on Territoire Connecté</description><generator>Hugo</generator><language>fr-FR</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://analytics-ds.github.io/territoire-connecte/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Supervision du stationnement, trois décisions qu'elle éclaire</title><link>https://analytics-ds.github.io/territoire-connecte/blog/supervision-stationnement/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/blog/supervision-stationnement/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En bref :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;La supervision fournit une mesure continue de l&amp;rsquo;occupation, là où la connaissance repose habituellement sur des comptages ponctuels.&lt;/li&gt;
+&lt;li&gt;Cette mesure éclaire trois décisions distinctes : la tarification, l&amp;rsquo;orientation du contrôle et l&amp;rsquo;arbitrage sur l&amp;rsquo;usage de la voirie.&lt;/li&gt;
+&lt;li&gt;Les technologies de mesure diffèrent par la précision et le coût de maintenance, et ne répondent pas au même besoin.&lt;/li&gt;
+&lt;li&gt;Les données d&amp;rsquo;occupation ne sont pas personnelles, contrairement aux données de paiement et de contrôle rattachées à un véhicule.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="ce-que-la-mesure-remplace"&gt;Ce que la mesure remplace&lt;/h2&gt;
+&lt;p&gt;Sans instrumentation, une collectivité connaît son stationnement par des comptages réalisés
+quelques jours par an. Ces relevés donnent une photographie, pas une tendance, et ils
+manquent par construction les situations exceptionnelles.&lt;/p&gt;</description></item><item><title>Pourquoi les démarches en ligne des mairies plafonnent</title><link>https://analytics-ds.github.io/territoire-connecte/blog/relation-usager-demarches-en-ligne/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/blog/relation-usager-demarches-en-ligne/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En bref :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Dématérialiser un formulaire ne dématérialise pas le traitement qu&amp;rsquo;il déclenche : si celui-ci reste manuel, le délai ne bouge pas.&lt;/li&gt;
+&lt;li&gt;Une démarche en ligne sans réponse rapide ajoute un canal au lieu d&amp;rsquo;en retirer un, car l&amp;rsquo;usager rappelle ou se déplace.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;ordre de dématérialisation compte : commencer par les démarches à fort volume et à traitement standardisé.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;indicateur utile est le taux de dossiers aboutis sans contact complémentaire, pas le nombre de formulaires ouverts.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="le-premier-facteur--le-traitement-derrière"&gt;Le premier facteur : le traitement derrière&lt;/h2&gt;
+&lt;p&gt;Une démarche en ligne se compose de deux moitiés. La première est visible : le formulaire.
+La seconde ne l&amp;rsquo;est pas : l&amp;rsquo;instruction du dossier par un agent. La dématérialisation porte
+le plus souvent sur la première seulement.&lt;/p&gt;</description></item><item><title>Éclairage public connecté, deux postes de gain à distinguer</title><link>https://analytics-ds.github.io/territoire-connecte/blog/eclairage-public-connecte/</link><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/blog/eclairage-public-connecte/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En bref :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;La télégestion agit sur deux postes distincts : la consommation électrique et l&amp;rsquo;organisation de la maintenance.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;abaissement de puissance en cœur de nuit est le levier de consommation le plus direct.&lt;/li&gt;
+&lt;li&gt;La maintenance passe du remplacement systématique à l&amp;rsquo;intervention sur panne signalée.&lt;/li&gt;
+&lt;li&gt;Un effet indirect souvent sous-estimé est l&amp;rsquo;obtention d&amp;rsquo;un inventaire à jour du parc, rarement disponible au départ.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="les-deux-postes-concernés"&gt;Les deux postes concernés&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;&lt;strong&gt;éclairage public connecté&lt;/strong&gt; désigne un parc dont les points lumineux sont pilotables et
+remontent leur état. Les gains attendus relèvent de deux logiques différentes, qu&amp;rsquo;il vaut
+mieux instruire séparément.&lt;/p&gt;</description></item><item><title>Piloter la rénovation énergétique du bâti public par la donnée</title><link>https://analytics-ds.github.io/territoire-connecte/blog/renovation-energetique-batiment-public/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/blog/renovation-energetique-batiment-public/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En bref :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Instrumenter avant de décider permet de hiérarchiser les travaux sur des consommations réelles plutôt que théoriques.&lt;/li&gt;
+&lt;li&gt;Une part des écarts de consommation vient des réglages et des usages, donc se corrige sans travaux lourds.&lt;/li&gt;
+&lt;li&gt;Commencer par les bâtiments les plus consommateurs et les plus fréquentés donne la meilleure information au moindre coût.&lt;/li&gt;
+&lt;li&gt;La mesure sert aussi après travaux, pour vérifier que l&amp;rsquo;effet attendu est constaté.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="pourquoi-mesurer-avant-darbitrer"&gt;Pourquoi mesurer avant d&amp;rsquo;arbitrer&lt;/h2&gt;
+&lt;p&gt;Un parc immobilier public est hétérogène : des écoles, des gymnases, des bureaux, parfois
+des bâtiments classés. Les arbitrages de travaux s&amp;rsquo;appuient souvent sur des diagnostics
+théoriques, qui décrivent ce que le bâtiment devrait consommer.&lt;/p&gt;</description></item><item><title>Comment choisir une plateforme de données territoriale</title><link>https://analytics-ds.github.io/territoire-connecte/blog/plateforme-donnees-territoriale/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/blog/plateforme-donnees-territoriale/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En bref :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Une plateforme de données territoriale est une couche de normalisation entre les sources et les usages, pas un tableau de bord.&lt;/li&gt;
+&lt;li&gt;Le modèle de données et sa conformité à un standard ouvert conditionnent la capacité à changer de fournisseur plus tard.&lt;/li&gt;
+&lt;li&gt;La réversibilité doit être instruite au contrat, avec un export complet et documenté, pas seulement évoquée.&lt;/li&gt;
+&lt;li&gt;Le coût à comparer est le coût complet sur la durée, licences, montée en charge et maintien en conditions opérationnelles inclus.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="le-rôle-réel-de-la-plateforme"&gt;Le rôle réel de la plateforme&lt;/h2&gt;
+&lt;p&gt;La &lt;strong&gt;plateforme de données territoriale&lt;/strong&gt; occupe une position intermédiaire. En amont, des
+sources : capteurs, logiciels métiers, fichiers déposés par des services. En aval, des
+usages : tableaux de bord, applications pour les agents, ouverture au public.&lt;/p&gt;</description></item><item><title>À quoi sert vraiment une hypervision urbaine</title><link>https://analytics-ds.github.io/territoire-connecte/blog/hypervision-urbaine/</link><pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/blog/hypervision-urbaine/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En bref :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;L&amp;rsquo;hypervision agrège les flux de plusieurs systèmes métiers dans une interface unique, sans les remplacer.&lt;/li&gt;
+&lt;li&gt;Elle se distingue de la supervision, qui pilote finement un seul domaine avec un niveau de détail supérieur.&lt;/li&gt;
+&lt;li&gt;Sa pertinence dépend du nombre de systèmes à croiser, donc de l&amp;rsquo;échelle : elle se justifie plus facilement en intercommunalité qu&amp;rsquo;en commune isolée.&lt;/li&gt;
+&lt;li&gt;Sa valeur se mesure au nombre de décisions qu&amp;rsquo;elle accélère, pas au nombre d&amp;rsquo;indicateurs affichés.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="ce-que-fait-une-hypervision"&gt;Ce que fait une hypervision&lt;/h2&gt;
+&lt;p&gt;Une collectivité exploite rarement un seul logiciel. Elle en exploite une dizaine, achetés
+à des moments différents, à des fournisseurs différents, chacun avec sa propre interface.
+L&amp;rsquo;&lt;strong&gt;hypervision urbaine&lt;/strong&gt; se place au-dessus de cet existant et en propose une lecture
+commune.&lt;/p&gt;</description></item><item><title>Qu'est-ce qu'un territoire intelligent ?</title><link>https://analytics-ds.github.io/territoire-connecte/blog/territoire-intelligent-definition/</link><pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/blog/territoire-intelligent-definition/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En bref :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Un territoire intelligent n&amp;rsquo;est pas une technologie mais une organisation : de la donnée produite par les services, normalisée, puis restituée sous forme d&amp;rsquo;usages métiers.&lt;/li&gt;
+&lt;li&gt;Le terme est plus large que smart city, car il inclut les intercommunalités et les zones peu denses, où l&amp;rsquo;enjeu est la mutualisation.&lt;/li&gt;
+&lt;li&gt;Les projets qui tiennent partent d&amp;rsquo;un besoin métier existant, pas d&amp;rsquo;un appel d&amp;rsquo;offres d&amp;rsquo;outillage.&lt;/li&gt;
+&lt;li&gt;La principale limite n&amp;rsquo;est pas technique mais organisationnelle : sans service qui s&amp;rsquo;approprie la donnée, la plateforme reste inutilisée.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="ce-que-recouvre-la-notion"&gt;Ce que recouvre la notion&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;expression &lt;strong&gt;territoire intelligent&lt;/strong&gt; désigne une collectivité qui pilote ses services à
+partir des données qu&amp;rsquo;elle produit déjà. Éclairage public, consommations des bâtiments,
+niveaux d&amp;rsquo;eau, stationnement, demandes reçues au guichet : chacun de ces domaines génère
+de l&amp;rsquo;information, le plus souvent enfermée dans un logiciel métier distinct.&lt;/p&gt;</description></item></channel></rss>

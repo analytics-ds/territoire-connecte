@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Articles on Territoire Connecté</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/</link><description>Recent content in Articles on Territoire Connecté</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://analytics-ds.github.io/territoire-connecte/en/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Parking supervision, three decisions it informs</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/parking-supervision/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/en/blog/parking-supervision/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In short:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Supervision provides a continuous measure of occupancy, where knowledge usually rests on occasional counts.&lt;/li&gt;
+&lt;li&gt;That measure informs three distinct decisions: pricing, the direction of enforcement and arbitration over use of the roadway.&lt;/li&gt;
+&lt;li&gt;Measurement technologies differ in accuracy and maintenance cost, and do not answer the same need.&lt;/li&gt;
+&lt;li&gt;Occupancy data is not personal data, unlike payment and enforcement data linked to an identifiable vehicle.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="what-measurement-replaces"&gt;What measurement replaces&lt;/h2&gt;
+&lt;p&gt;Without instrumentation, an authority knows its parking through counts carried out a few
+days a year. Those surveys give a snapshot, not a trend, and by construction they miss
+exceptional situations.&lt;/p&gt;</description></item><item><title>Why online procedures at town halls plateau</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/citizen-relations-online-services/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/en/blog/citizen-relations-online-services/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In short:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Digitising a form does not digitise the processing it triggers: if that stays manual, the delay does not move.&lt;/li&gt;
+&lt;li&gt;An online procedure with no quick answer adds a channel instead of removing one, because the user calls back or visits.&lt;/li&gt;
+&lt;li&gt;The order of digitisation matters: start with high-volume procedures that have standardised processing.&lt;/li&gt;
+&lt;li&gt;The useful indicator is the share of cases completed without further contact, not the number of forms opened.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="the-first-factor-the-processing-behind"&gt;The first factor: the processing behind&lt;/h2&gt;
+&lt;p&gt;An online procedure has two halves. The first is visible: the form. The second is not: the
+handling of the case by a member of staff. Digitisation most often covers the first only.&lt;/p&gt;</description></item><item><title>Connected street lighting, two gains to separate</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/connected-street-lighting/</link><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/en/blog/connected-street-lighting/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In short:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Remote management acts on two distinct items: electricity consumption and the organisation of maintenance.&lt;/li&gt;
+&lt;li&gt;Dimming in the middle of the night is the most direct consumption lever.&lt;/li&gt;
+&lt;li&gt;Maintenance shifts from systematic replacement to intervention on reported faults.&lt;/li&gt;
+&lt;li&gt;An often underestimated side effect is obtaining an up-to-date inventory of the estate, rarely available at the start.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="the-two-items-concerned"&gt;The two items concerned&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Connected street lighting&lt;/strong&gt; designates an estate whose light points can be controlled and
+report their state. The expected gains follow two different logics, better examined
+separately.&lt;/p&gt;</description></item><item><title>Managing public building retrofit with data</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/energy-retrofit-public-buildings/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/en/blog/energy-retrofit-public-buildings/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In short:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Instrumenting before deciding makes it possible to rank works on actual rather than theoretical consumption.&lt;/li&gt;
+&lt;li&gt;Part of the consumption gap comes from settings and usage patterns, and can therefore be closed without heavy works.&lt;/li&gt;
+&lt;li&gt;Starting with the highest-consuming and most heavily used buildings gives the best information at the lowest cost.&lt;/li&gt;
+&lt;li&gt;Measurement remains useful after the works, to verify that the expected effect is observed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="why-measure-before-deciding"&gt;Why measure before deciding&lt;/h2&gt;
+&lt;p&gt;A public building estate is heterogeneous: schools, sports halls, offices, sometimes listed
+buildings. Decisions on works often rest on theoretical assessments, which describe what the
+building ought to consume.&lt;/p&gt;</description></item><item><title>How to choose a territorial data platform</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/territorial-data-platform/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/en/blog/territorial-data-platform/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In short:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A territorial data platform is a normalisation layer between sources and uses, not a dashboard.&lt;/li&gt;
+&lt;li&gt;The data model and its conformity to an open standard determine the ability to change supplier later.&lt;/li&gt;
+&lt;li&gt;Reversibility must be written into the contract, with a full documented export, not merely mentioned.&lt;/li&gt;
+&lt;li&gt;The cost to compare is the total cost over time, including licences, scaling and ongoing operational maintenance.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="the-real-role-of-the-platform"&gt;The real role of the platform&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;territorial data platform&lt;/strong&gt; occupies an intermediate position. Upstream, the sources:
+sensors, business applications, files deposited by departments. Downstream, the uses:
+dashboards, applications for staff, publication to the public.&lt;/p&gt;</description></item><item><title>What urban hypervision is actually for</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/urban-hypervision/</link><pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/en/blog/urban-hypervision/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In short:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hypervision aggregates the flows of several business systems into a single interface, without replacing them.&lt;/li&gt;
+&lt;li&gt;It differs from supervision, which manages a single domain in detail and at a higher level of granularity.&lt;/li&gt;
+&lt;li&gt;Its relevance depends on the number of systems to cross-reference, and therefore on scale: it is easier to justify across an inter-municipal body than in an isolated municipality.&lt;/li&gt;
+&lt;li&gt;Its value is measured by the number of decisions it speeds up, not by the number of indicators displayed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="what-hypervision-does"&gt;What hypervision does&lt;/h2&gt;
+&lt;p&gt;A local authority rarely runs a single piece of software. It runs a dozen, bought at
+different times, from different suppliers, each with its own interface. &lt;strong&gt;Urban
+hypervision&lt;/strong&gt; sits above that estate and offers a common reading of it.&lt;/p&gt;</description></item><item><title>What is a smart territory?</title><link>https://analytics-ds.github.io/territoire-connecte/en/blog/what-is-a-smart-territory/</link><pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/en/blog/what-is-a-smart-territory/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In short:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A smart territory is not a technology but an organisation: data produced by services, normalised, then returned as operational uses.&lt;/li&gt;
+&lt;li&gt;The term is broader than smart city, because it includes inter-municipal bodies and sparsely populated areas, where pooling is the point.&lt;/li&gt;
+&lt;li&gt;Projects that hold up start from an existing operational need, not from a procurement exercise for tooling.&lt;/li&gt;
+&lt;li&gt;The main limit is organisational rather than technical: without a department that takes ownership of the data, the platform goes unused.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="what-the-notion-covers"&gt;What the notion covers&lt;/h2&gt;
+&lt;p&gt;The expression &lt;strong&gt;smart territory&lt;/strong&gt; designates a local authority that steers its services
+from the data it already produces. Street lighting, building consumption, water levels,
+parking, requests received at the counter: each of these areas generates information, most
+often locked inside a separate business application.&lt;/p&gt;</description></item></channel></rss>

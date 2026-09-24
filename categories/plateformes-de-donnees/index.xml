@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Plateformes de données on Territoire Connecté</title><link>https://analytics-ds.github.io/territoire-connecte/categories/plateformes-de-donnees/</link><description>Recent content in Plateformes de données on Territoire Connecté</description><generator>Hugo</generator><language>fr-FR</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://analytics-ds.github.io/territoire-connecte/categories/plateformes-de-donnees/index.xml" rel="self" type="application/rss+xml"/><item><title>Comment choisir une plateforme de données territoriale</title><link>https://analytics-ds.github.io/territoire-connecte/blog/plateforme-donnees-territoriale/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/blog/plateforme-donnees-territoriale/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En bref :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Une plateforme de données territoriale est une couche de normalisation entre les sources et les usages, pas un tableau de bord.&lt;/li&gt;
+&lt;li&gt;Le modèle de données et sa conformité à un standard ouvert conditionnent la capacité à changer de fournisseur plus tard.&lt;/li&gt;
+&lt;li&gt;La réversibilité doit être instruite au contrat, avec un export complet et documenté, pas seulement évoquée.&lt;/li&gt;
+&lt;li&gt;Le coût à comparer est le coût complet sur la durée, licences, montée en charge et maintien en conditions opérationnelles inclus.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="le-rôle-réel-de-la-plateforme"&gt;Le rôle réel de la plateforme&lt;/h2&gt;
+&lt;p&gt;La &lt;strong&gt;plateforme de données territoriale&lt;/strong&gt; occupe une position intermédiaire. En amont, des
+sources : capteurs, logiciels métiers, fichiers déposés par des services. En aval, des
+usages : tableaux de bord, applications pour les agents, ouverture au public.&lt;/p&gt;</description></item><item><title>À quoi sert vraiment une hypervision urbaine</title><link>https://analytics-ds.github.io/territoire-connecte/blog/hypervision-urbaine/</link><pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate><guid>https://analytics-ds.github.io/territoire-connecte/blog/hypervision-urbaine/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En bref :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;L&amp;rsquo;hypervision agrège les flux de plusieurs systèmes métiers dans une interface unique, sans les remplacer.&lt;/li&gt;
+&lt;li&gt;Elle se distingue de la supervision, qui pilote finement un seul domaine avec un niveau de détail supérieur.&lt;/li&gt;
+&lt;li&gt;Sa pertinence dépend du nombre de systèmes à croiser, donc de l&amp;rsquo;échelle : elle se justifie plus facilement en intercommunalité qu&amp;rsquo;en commune isolée.&lt;/li&gt;
+&lt;li&gt;Sa valeur se mesure au nombre de décisions qu&amp;rsquo;elle accélère, pas au nombre d&amp;rsquo;indicateurs affichés.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="ce-que-fait-une-hypervision"&gt;Ce que fait une hypervision&lt;/h2&gt;
+&lt;p&gt;Une collectivité exploite rarement un seul logiciel. Elle en exploite une dizaine, achetés
+à des moments différents, à des fournisseurs différents, chacun avec sa propre interface.
+L&amp;rsquo;&lt;strong&gt;hypervision urbaine&lt;/strong&gt; se place au-dessus de cet existant et en propose une lecture
+commune.&lt;/p&gt;</description></item></channel></rss>

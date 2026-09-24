@@ -1,0 +1,35 @@
+# Territoire Connecté
+
+> Analyses, cas d'usage et repères sur les plateformes de données, l'IA et les services publics qui transforment les territoires.
+
+## À propos
+
+Territoire Connecté est un blog consacré à la transformation numérique des collectivités
+territoriales françaises. Il traite des plateformes de données, de l'interopérabilité, de
+la transition énergétique du patrimoine public et des services aux citoyens, sur un ton
+neutre et sans promotion d'une solution particulière. Le site est bilingue français et
+anglais.
+
+## Contenu principal
+
+- Plateformes de données : plateformes de données territoriales, hypervision urbaine, critères de choix, réversibilité
+- Smart city : périmètre et limites de la notion de territoire intelligent, services rendus aux habitants
+- Gestion technique urbaine : rénovation énergétique du bâti public, éclairage public connecté, supervision du stationnement
+
+## Articles récents
+
+- Qu'est-ce qu'un territoire intelligent ? — /blog/territoire-intelligent-definition/
+- À quoi sert vraiment une hypervision urbaine — /blog/hypervision-urbaine/
+- Comment choisir une plateforme de données territoriale — /blog/plateforme-donnees-territoriale/
+- Piloter la rénovation énergétique du bâti public par la donnée — /blog/renovation-energetique-batiment-public/
+- Éclairage public connecté, deux postes de gain à distinguer — /blog/eclairage-public-connecte/
+- Pourquoi les démarches en ligne des mairies plafonnent — /blog/relation-usager-demarches-en-ligne/
+- Supervision du stationnement, trois décisions qu'elle éclaire — /blog/supervision-stationnement/
+
+## Informations techniques
+
+- Générateur : Hugo
+- Hébergement : GitHub Pages
+- Langues : français (racine) et anglais (/en/)
+- Sitemap : https://analytics-ds.github.io/territoire-connecte/sitemap.xml
+- RSS : https://analytics-ds.github.io/territoire-connecte/index.xml
