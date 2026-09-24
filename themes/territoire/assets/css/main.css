@@ -1951,3 +1951,33 @@ body { font-size: 1rem; }
     .board-media { min-height: 220px; }
     .board-text { min-height: 0; }
 }
+
+/* --- Titres de page : correction du blanc herite + couleur d'accent ---
+   La regle de base posait color: var(--white) sur .list-header, pensee pour
+   un bandeau sombre. La surcouche a mis le fond en blanc : le H1 devenait
+   blanc sur blanc, donc invisible sur /blog/, les categories et le plan du site. */
+.list-header,
+.sitemap-page .list-header,
+.error-page {
+    color: var(--text);
+}
+.list-header h1,
+.article-title,
+.section-title,
+.sitemap-page h1,
+.error-page h1 {
+    color: var(--accent);
+}
+.sitemap-section h2 a { color: var(--accent); }
+
+/* Le bandeau du plan du site avait un selecteur plus specifique, il gardait
+   le fond sombre d'origine. On l'aligne sur les autres pages de liste. */
+.sitemap-page .list-header {
+    background-color: var(--white);
+    color: var(--text);
+    padding: var(--space-lg) var(--space-sm) var(--space-md);
+    max-width: var(--container);
+    margin: 0 auto;
+}
+.sitemap-page .list-header h1 { color: var(--accent); }
+.sitemap-page .list-description { color: var(--text-light); }
