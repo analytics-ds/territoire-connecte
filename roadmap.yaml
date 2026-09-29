@@ -13,11 +13,11 @@ articles:
     category: "Inclusion numérique"
     volume: 7090
     scheduled_date: "2026-09-29"
-    status: todo
+    status: done
     angle: "Le phenomene, sa definition, ses chiffres en France. Mailler l'article publie sur les demarches en ligne, ne pas le repeter."
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    published_date: "2026-09-29"
+    published_url_fr: "https://territoire-connecte.com/blog/illectronisme/"
+    published_url_en: "https://territoire-connecte.com/en/blog/digital-illiteracy/"
     error: null
 
   - kw: "fracture numerique"
