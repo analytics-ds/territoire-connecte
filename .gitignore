@@ -13,5 +13,3 @@ MEMORY.md
 # A reactiver apres : gh auth refresh -h github.com -s workflow
 .github/
 
-# Roadmap editoriale : locale, ne jamais publier sur le repo public.
-roadmap.yaml
