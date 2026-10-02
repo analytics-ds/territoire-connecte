@@ -89,6 +89,10 @@ summaryLength = 30
   pageRef = "/categories/smart-city"
   weight = 3
 [[languages.fr.menus.main]]
+  name = "Inclusion numérique"
+  pageRef = "/categories/inclusion-numérique"
+  weight = 4
+[[languages.fr.menus.main]]
   name = "Gestion technique urbaine"
   pageRef = "/categories/gestion-technique-urbaine"
   weight = 5
@@ -118,6 +122,10 @@ summaryLength = 30
   name = "Smart city"
   pageRef = "/categories/smart-city"
   weight = 3
+[[languages.en.menus.main]]
+  name = "Digital inclusion"
+  pageRef = "/categories/digital-inclusion"
+  weight = 4
 [[languages.en.menus.main]]
   name = "Urban technical management"
   pageRef = "/categories/urban-technical-management"
